@@ -1,10 +1,4 @@
-//
-//  QCMethod.swift
-//
-//  Version 1.30
-//
-//  www.quartzcodeapp.com
-//
+
 
 #if os(iOS)
 import UIKit
